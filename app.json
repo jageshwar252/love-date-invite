@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "A Little Question",
+    "slug": "love-date-invite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#fff4f7"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
